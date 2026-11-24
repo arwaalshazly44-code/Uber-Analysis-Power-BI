@@ -32,7 +32,7 @@ The dashboard consists of six interactive pages:
 
 For detailed findings, business interpretations, and potential business implications, see:
 
-[View Key Business Insights](Key-Insights.md)
+[View Key Business Insights](Documentation/Key_Findings.md)
 
 ## Tools & Technologies
 
